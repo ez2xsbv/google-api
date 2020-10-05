@@ -22,7 +22,7 @@ Registering Webhooks for Github, to make release packages.
 2. Select **Add webhook** under **Webhooks**.
 
    ![Screenshot](https://github.com/bitrise-io/devcenter/blob/master/img/webhooks/github-webhook-3.png)
-3. Paste the GitHub Webhook URL https://packagist.org/api/github?username=**Your username** to the **Payload URL**
+3. Paste the GitHub Webhook URL https://packagist.org/api/github?username=**Your_username** to the **Payload URL**
 4. Set **Content-Type** to **application/json**
 5. Paste the API token to the **Secret** input.
 

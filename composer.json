@@ -5,6 +5,12 @@
     "keywords": ["EZ2XS", "google"],
     "homepage": "http://developers.google.com/api-client-library/php",
     "license": "Apache-2.0",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://github.com/ez2xsbv/google-api.git"
+        }
+    ],
     "require": {
         "php": ">=5.4",
         "google/auth": "^1.10",

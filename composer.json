@@ -3,11 +3,11 @@
     "type": "library",
     "description": "EZ2XS Google client library for Google APIs",
     "keywords": ["EZ2XS", "google"],
-    "homepage": "http://developers.google.com/api-client-library/php",
+    "homepage": "https://github.com/ez2xsbv/google-api",
     "license": "Apache-2.0",
     "repositories": [
         {
-            "type": "git",
+            "type": "vcs",
             "url": "https://github.com/ez2xsbv/google-api.git"
         }
     ],

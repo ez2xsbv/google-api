@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.4",
         "google/auth": "^1.10",
-        "ez2xsbv/google-api-services": "~0.13",
+        "ez2xsbv/google-api-services": "*",
         "firebase/php-jwt": "~2.0||~3.0||~4.0||~5.0",
         "monolog/monolog": "^1.17|^2.0",
         "phpseclib/phpseclib": "~0.3.10||~2.0",
